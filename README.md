@@ -26,7 +26,7 @@ The POST will return a status object with the location of where the result can l
 subsequent posts will not intialise a new crawler, only 1 crawler / site can be active at any time, and thus a repeat status object with the result code will be returned 
 and a true or false of if the job is done.
 
-if the job is done, the site map in json can be retrieved from http://localhost:8080/api/result/<location code>, as a GET request, any exceptions that interrupted the jobs will also be returned here.
+if the job is done, the site map in json can be retrieved from http://localhost:8080/api/result/##locationCode##, as a GET request, any exceptions that interrupted the jobs will also be returned here.
 
 a site can be re-crawled only once its previous result has been removed, a delete request to the result location will remove the entry from memory.
 
