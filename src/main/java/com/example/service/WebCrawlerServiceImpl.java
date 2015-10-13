@@ -28,7 +28,7 @@ public class WebCrawlerServiceImpl implements WebCrawlerService {
     private ThreadPoolTaskExecutor threadPoolTaskExecutor;
 
     @Override
-    public Status crawl(String url, int politeness, String domainRule) throws Exception {
+    synchronized public Status crawl(String url, int politeness, String domainRule) throws Exception {
         boolean alreadyCrawling = sitesBeingCrawled.containsKey(url);
         String base64Url = Base64Utils.encodeToString(url.getBytes());
 
