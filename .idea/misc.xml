@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../FUCKSAKE" value="1431952311000" />
+        <entry key="$PROJECT_DIR$/../FUUUUCCKKKKKKITTTTTTTTTTTT" value="1431952848000" />
+        <entry key="$PROJECT_DIR$/../accenture/learning/jclouds-examples/untitled" value="1431948467000" />
+        <entry key="$PROJECT_DIR$/../accenture/learning/sbtscalatestintellij" value="1431950560000" />
+        <entry key="$PROJECT_DIR$/../accenture/work/acp-analytics" value="5727776496000" />
+        <entry key="$PROJECT_DIR$/../accenture/work/acp-vcac" value="1432742743000" />
+        <entry key="$PROJECT_DIR$/../learning/aws_cloud_analytics" value="1432050499000" />
+        <entry key="$PROJECT_DIR$/../learning/play/minimal-scala" value="1430917209000" />
+        <entry key="$PROJECT_DIR$/../learning/play/my-first-app" value="1430902902000" />
+        <entry key="$PROJECT_DIR$/../learning/play/play-scala" value="1430917846000" />
+        <entry key="$PROJECT_DIR$/../learning/play/reactive-stocks" value="1430907045000" />
+        <entry key="$PROJECT_DIR$/../learning/scala" value="1430388565000" />
+        <entry key="$PROJECT_DIR$/../whatthefuck" value="1431951500000" />
+        <entry key="$USER_HOME$/acp-analytics" value="10082111793000" />
+      </map>
+    </option>
+  </component>
+</project>
